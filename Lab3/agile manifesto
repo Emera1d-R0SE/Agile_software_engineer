@@ -1,1 +1,201 @@
+Lab-3
 
+LAB MANUAL
+Title
+Mapping Agile Manifesto to Practices
+Tool Used: Taiga
+Lab Duration: 2 Hours
+Lab Type: Hands-on, Tool-based
+Mode: Individual / Pair Work
+
+1. Aim of the Lab
+The aim of this lab is to help students systematically map Agile Manifesto values and principles to real Agile practices and implement those practices using the Taiga Agile project management tool.
+
+2. Learning Objectives
+After completing this lab, students will be able to:
+Explain Agile Manifesto values and principles
+Translate Agile principles into concrete Agile practices
+Use Taiga features such as backlog, user stories, sprints, comments, and wiki
+Demonstrate Agile concepts such as adaptability, collaboration, and continuous improvement
+Critically analyze the role of tools in supporting Agile values
+
+3. Prerequisites
+Students should have:
+Basic understanding of Agile methodology
+Familiarity with Scrum roles
+Access to a Taiga account (cloud or institutional)
+
+4. Project Context
+Project Title: Agile-Manifesto-Practice-Mapping
+Project Scenario: Online Course Registration System (OCRS)
+Note:
+This project is used only for planning, mapping, and learning purposes.
+No coding or software development is required.
+
+5. Lab Structure and Time Allocation
+Phase
+Description
+Duration
+Phase 1
+Understanding Agile Manifesto
+30 minutes
+Phase 2
+Mapping Manifesto to Practices using Taiga
+70 minutes
+Phase 3
+Change Simulation and Reflection
+20 minutes
+
+
+PHASE 1: UNDERSTANDING AGILE MANIFESTO (30 MINUTES)
+
+Step 1: Study Agile Manifesto Values (15 Minutes)
+Instructions:
+Carefully read the four Agile Manifesto values:
+Individuals and interactions over processes and tools
+Working software over comprehensive documentation
+Customer collaboration over contract negotiation
+Responding to change over following a plan
+Student Task:
+For each value:
+Write one example (1–2 lines) showing how a traditional approach fails to support this value
+Write one example explaining how Agile addresses this limitation
+Expected Outcome:
+Students understand the philosophical shift from traditional to Agile development.
+
+Step 2: Study Agile Manifesto Principles (15 Minutes)
+Instructions:
+Study any six of the following Agile principles:
+Early and continuous delivery of valuable software
+Welcoming changing requirements, even late in development
+Frequent delivery of working software
+Collaboration between business stakeholders and developers
+Working software as the primary measure of progress
+Sustainable development pace
+Continuous attention to technical excellence
+Regular reflection and adaptation
+Student Task:
+For each selected principle, write one practical implication (how it influences day-to-day project activities)
+Expected Outcome:
+Students can relate Agile principles to real project behavior.
+
+PHASE 2: MAPPING AGILE MANIFESTO TO PRACTICES USING TAIGA (70 MINUTES)
+
+Step 3: Create Agile Project in Taiga (10 Minutes)
+Instructions:
+Log in to Taiga
+Click Create New Project
+Enter project name:
+Agile-Manifesto-Practice-Mapping
+Select Scrum Project
+Enable the following modules:
+Backlog
+User Stories
+Sprints (Milestones)
+Wiki
+Create the project
+Expected Outcome:
+A Scrum-based project dashboard is visible with backlog and sprint options.
+
+Step 4: Identify Agile Practices (15 Minutes)
+Instructions:
+Identify Agile practices that operationalize Agile principles, such as:
+User story-based requirements
+Product backlog prioritization
+Iterative development using sprints
+Continuous stakeholder feedback
+Team collaboration and communication
+Review and retrospective meetings
+Student Task:
+For each practice, write:
+The Agile principle(s) it supports
+A one-line justification
+Expected Outcome:
+Clear linkage between principles and practices.
+
+Step 5: Create User Stories in Taiga (20 Minutes)
+Instructions:
+Navigate to the Backlog section
+Create at least three user stories
+Suggested User Stories:
+As a student, I want to register so that I can enroll in courses.
+As a student, I want to drop a course so that I can manage my schedule.
+As an admin, I want to add and update courses so that students can view accurate information.
+For Each User Story:
+Assign priority
+Assign story points
+Add acceptance criteria
+Mention the Agile principle supported in the description
+Expected Outcome:
+User stories are visible, prioritized, and clearly linked to Agile principles.
+
+Step 6: Map Agile Principles to Taiga Features (25 Minutes)
+Instructions:
+Open the Wiki section in Taiga
+Create a new page titled:
+Mapping Agile Manifesto to Practices
+Create and complete the following table:
+Agile Principle
+Agile Practice
+Taiga Feature Used
+Evidence
+Welcome change
+Backlog reprioritization
+Product Backlog
+Priority changes
+Frequent delivery
+Iterative development
+Sprints
+Sprint board
+Customer collaboration
+Feedback & reviews
+Comments
+PO comments
+Individuals & interactions
+Team communication
+Task comments
+Discussion logs
+Measure progress by software
+Incremental delivery
+Sprint board
+Completed stories
+Continuous improvement
+Retrospective
+Wiki
+Action items
+
+Attach screenshots or references as evidence wherever applicable.
+Expected Outcome:
+A complete, evidence-based mapping of Agile principles to Taiga practices.
+
+PHASE 3: CHANGE SIMULATION & REFLECTION (20 MINUTES)
+
+Step 7: Change Simulation (10 Minutes)
+Scenario Introduced by Instructor:
+“Students should receive email notifications whenever they enroll in or drop a course.”
+Instructions:
+Create a new user story for this requirement
+Reprioritize the product backlog
+Assign the story to a future sprint
+Expected Observation:
+Change is accommodated without disturbing completed work, demonstrating Agile adaptability.
+
+Step 8: Reflection Questions (10 Minutes)
+Students must answer the following questions clearly:
+Which Agile principle was easiest to implement using Taiga?
+Which Agile principle was difficult to represent using a tool?
+How does Taiga support collaboration and transparency?
+Can Agile values exist without tools? Justify your answer.
+
+6. Deliverables
+Students must submit:
+Screenshot of Taiga project setup
+Screenshot of backlog and sprint board
+Completed Agile principle-practice mapping table
+Reflection write-up (150–200 words)
+
+7. Evaluation Criteria
+Understanding of Agile values and principles
+Accuracy of mapping between principles and practices
+Effective use of Taiga features
+Quality of reflection and justification
