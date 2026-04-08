@@ -1,0 +1,7 @@
+Reflection Write-up: Adaptive Software Development (ASD)
+
+This lab helped me understand how Adaptive Software Development (ASD) works in uncertain environments. The Speculate phase showed that planning is based on assumptions and should remain flexible. Creating user stories without fixing requirements made it clear that change is expected.
+
+During the Collaborate phase, interacting through comments and modifying tasks highlighted the importance of teamwork and stakeholder feedback. It showed that better decisions come from continuous communication.
+
+In the Learn phase, reviewing assumptions and updating the backlog demonstrated how learning drives improvement. Adapting plans based on feedback made the process more effective.
